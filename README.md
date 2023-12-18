@@ -1,6 +1,6 @@
 ![textanim-2bjaq](https://github.com/erdinctasci/erdinctasci/assets/101355400/fabaf778-d5f8-4997-b586-60297df5403f)
 
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Engineer/Analyst</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erdinctasci&label=Profile%20views&color=ffae00&style=plastic" alt="erdinctasci" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdinctasci&show_icons=true&theme=dracula&locale=en" alt="erdinctasci" /></p> 
 
